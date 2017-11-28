@@ -1,8 +1,8 @@
 # ProsesIndia JavaScript(ES6) Style Guide() {
 
-*“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”*
-
-*“Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?'”*
+>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+>
+>“Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?'”
 
 > **Note**: this guide for ES6 and assumes you are using [Babel](https://babeljs.io).
 
