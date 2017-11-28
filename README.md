@@ -2,6 +2,10 @@
 
 *A mostly reasonable approach to JavaScript*
 
+> **Note**: this guide for ES6 and assumes you are using [Babel](https://babeljs.io).
+
+- [For ES5 (What we mostly using)](https://github.com/vinayproses/JavaScriptStyleGuide/JSes5StyleGuide.md)
+
 ## Table of Contents
 
   1. [Types](#types)
