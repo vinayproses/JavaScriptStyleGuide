@@ -1,4 +1,4 @@
-# ProsesIndia JavaScript Style Guide() {
+# ProsesIndia JavaScript(ES6) Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
