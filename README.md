@@ -4,7 +4,7 @@
 
 > **Note**: this guide for ES6 and assumes you are using [Babel](https://babeljs.io).
 
-- [For ES5 (What we mostly using)](https://github.com/vinayproses/JavaScriptStyleGuide/blob/master/JSes5StyleGuide.md)
+- [For JavaScript(ES5) (What we mostly using)](https://github.com/vinayproses/JavaScriptStyleGuide/blob/master/JSes5StyleGuide.md)
 
 ## Table of Contents
 
